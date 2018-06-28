@@ -1,5 +1,6 @@
 //# Pixel-Art-Maker
-//ALC Google Africa Challenge
+
+ALC Google Africa Challenge
 
 Pixel-Art-Maker Is a single-page web app that allows users to draw pixel art on a customizable canvas. This web application uses HTML, CSS and JavaScript.
 How does it work :
